@@ -1,10 +1,10 @@
 {
   "index": {
-    "fields": [ //索引的列
+    "fields": [
       "productBatch"
     ]
   },
-  "ddoc": "transportIndexDoc", //索引文档名，可自定义
-  "name": "transportIndex", //索引名，可自定义
+  "ddoc": "transportIndexDoc",
+  "name": "transportIndex",
   "type": "json"
 }
